@@ -9,7 +9,7 @@ import (
 
 func main() {
 	for {
-		resp, err := http.Get("https://visitor-badge.glitch.me/badge?page_id=complexorganizations.git-views-generator")
+		resp, err := http.Get("http://hits.dwyl.com/complexorganizations/git-views-generator.svg")
 		if err != nil {
 			log.Println(err)
 		}
