@@ -1,6 +1,6 @@
 ### Git Views Generator
 
-![git-views-generator](https://visitor-badge.glitch.me/badge?page_id=complexorganizations.git-views-generator)
+[![Git Views Generator](http://hits.dwyl.com/complexorganizations/git-views-generator.svg)](https://github.com/complexorganizations/git-views-generator)
 
 ---
 ### Features
