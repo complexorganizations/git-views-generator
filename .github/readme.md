@@ -2,6 +2,8 @@
 
 [![Git Views Generator](http://hits.dwyl.com/complexorganizations/git-views-generator.svg)](https://github.com/complexorganizations/git-views-generator)
 
+The point of this is just to demonstrate that the structure of views can be manipulated.
+
 ---
 ### Features
 - Git Views Generator
