@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"io"
 	"log"
 	"net/http"
@@ -17,6 +16,6 @@ func main() {
 		if err != nil {
 			log.Println(err)
 		}
-		fmt.Println(string(body))
+		_ = string(body)
 	}
 }
